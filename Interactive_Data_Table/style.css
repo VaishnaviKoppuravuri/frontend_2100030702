@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .container {
+    margin: 20px;
+  }
+  
+  #searchInput {
+    margin-bottom: 10px;
+  }
+  
+  #pagination button {
+    margin-right: 5px;
+  }
+  
